@@ -3,11 +3,11 @@
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
 
-#define BOTtoken "5814744392:AAECJ7G2NAhYMusaGJF44VJGl7SsLsx1YIA"
-#define CHAT_ID "1148159071"
+#define BOTtoken " "
+#define CHAT_ID " "
 
-const char* ssid = "KUKIL BORGOHAIN";
-const char* password = "9101124506";
+const char* ssid = " ";
+const char* password = " ";
 
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
 
